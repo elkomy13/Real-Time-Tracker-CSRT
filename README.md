@@ -7,7 +7,7 @@ This project implements a **real-time object tracker** using **OpenCV** in Pytho
 
 ## Implementation Details
 
-### 1 *Key Features:**
+### 1 **Key Features:**
 - **Live webcam feed capture** using `cv2.VideoCapture()`.
 - **User-defined object selection** via `cv2.selectROI()` for the initial bounding box.
 - **Real-time object tracking** using OpenCV's `cv2.TrackerCSRT_create()` tracker.
@@ -37,7 +37,7 @@ This project implements a **real-time object tracker** using **OpenCV** in Pytho
 - Python 3.x
 - OpenCV (`opencv-python`)
 
-### 🔌 **Install Dependencies:**
+###  **Install Dependencies:**
 ```bash
 pip install opencv-python
 ```
